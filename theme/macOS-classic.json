@@ -1,4 +1,5 @@
 {
+		// Reference https://code.visualstudio.com/docs/getstarted/theme-color-reference
     "name": "macOS Classic",
     "author": "Jason Lee",
     "maintainers": [
@@ -58,8 +59,8 @@
 		"list.inactiveSelectionBackground": "#dcdcdc",
 		"list.inactiveSelectionForeground": "#262426",
 		"editorCursor.foreground": "#333333",
-		"selection.background": "#0069d9",
-		"editor.selectionBackground": "#0069d9"
+		"selection.background": "#e5f1ff",
+		"editor.selectionBackground": "#e5f1ff"
 	},
 	"tokenColors": [
 		{
