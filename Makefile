@@ -1,0 +1,2 @@
+release:
+	vsce package
