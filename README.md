@@ -26,4 +26,5 @@ You can setup settings to get best effect:
 
 ## Screenshot
 
-![screenshot0](https://user-images.githubusercontent.com/5518/32481320-d8c19028-c3cd-11e7-879b-2a725c944679.png)
+![](https://user-images.githubusercontent.com/5518/32593177-e2e55824-c561-11e7-99ed-aab95eb89d1c.png)
+
