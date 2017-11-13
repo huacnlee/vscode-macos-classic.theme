@@ -1,0 +1,38 @@
+{
+	"iconDefinitions": {
+		"_file": {
+			"iconPath": "./icons/GenericDocumentIcon.png"
+		},
+    "_forder": {
+      "iconPath": "./icons/GenericFolderIcon.png"
+    },
+    "_openForder": {
+      "iconPath": "./icons/OpenFolderIcon.png"
+    },
+    "_code": { "iconPath": "./icons/code.png" },
+    "_markdown": { "iconPath": "./icons/markdown.png" },
+    "_text": { "iconPath": "./icons/text.png" }
+	},
+	"folderExpanded": "_openForder",
+	"folder": "_forder",
+	"file": "_file",
+  "fileExtensions": {
+    "c": "_code",
+    "go": "_code",
+    "rb": "_code",
+    "py": "_code",
+    "java": "_code",
+    "php": "_code",
+    "js": "_code",
+    "json": "_code",
+    "cpp": "_code",
+    "bash": "_code",
+    "md": "_markdown",
+    "textile": "_markdown",
+    "rdoc": "_markdown",
+    "txt": "_text"
+  },
+  "filenames": {
+    "LICENSE": "_text"
+  }
+}

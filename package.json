@@ -44,6 +44,13 @@
 				"uiTheme": "vs",
 				"path": "./theme/macOS-classic.json"
 			}
+		],
+		"iconThemes": [
+			{
+				"id": "macos-classic-icons",
+				"label": "macOS Classic icon theme",
+				"path": "./icon-theme/macos-classic-icons.json"
+			}
 		]
 	},
 	"__metadata": {
