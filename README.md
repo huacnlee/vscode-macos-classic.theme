@@ -2,6 +2,9 @@
 
 > A light theme for [Visual Studio Code](http://code.visualstudio.com).
 
+- UI theme
+- Icon theme
+
 ## Usage
 
 You can setup settings to get best effect:
@@ -26,5 +29,5 @@ You can setup settings to get best effect:
 
 ## Screenshot
 
-![](https://user-images.githubusercontent.com/5518/32593177-e2e55824-c561-11e7-99ed-aab95eb89d1c.png)
+![](https://user-images.githubusercontent.com/5518/32710127-cc6a7450-c870-11e7-8020-98a772ac71e1.png)
 
