@@ -9,30 +9,62 @@
     "_openForder": {
       "iconPath": "./icons/OpenFolderIcon.png"
     },
+    "_libraryForder": {
+      "iconPath": "./icons/LibraryFolderIcon.png"
+    },
     "_code": { "iconPath": "./icons/code.png" },
     "_markdown": { "iconPath": "./icons/markdown.png" },
-    "_text": { "iconPath": "./icons/text.png" }
+    "_text": { "iconPath": "./icons/text.png" },
+    "_list": { "iconPath": "./icons/list.png" },
+    "_config": { "iconPath": "./icons/config.png" }
 	},
 	"folderExpanded": "_openForder",
 	"folder": "_forder",
 	"file": "_file",
+  "folderNames": {
+    "node_modules": "_libraryForder",
+    "vendor": "_libraryForder",
+    "vendor": "_libraryForder"
+  },
   "fileExtensions": {
     "c": "_code",
     "go": "_code",
     "rb": "_code",
+    "ru": "_code",
+    "rs": "_code",
+    "cr": "_code",
     "py": "_code",
     "java": "_code",
     "php": "_code",
     "js": "_code",
+    "es6": "_code",
+    "coffee": "_code",
+    "css": "_code",
+    "less": "_code",
+    "sass": "_code",
+    "scss": "_code",
     "json": "_code",
     "cpp": "_code",
     "bash": "_code",
     "md": "_markdown",
     "textile": "_markdown",
     "rdoc": "_markdown",
-    "txt": "_text"
+    "txt": "_text",
+    "json": "_list",
+    "yml": "_config",
+    "ini": "_config",
+    "conf": "_config",
+    "properties": "_config",
+    "toml": "_config",
+    "xml": "_list"
   },
-  "filenames": {
-    "LICENSE": "_text"
+  "fileNames": {
+    "license": "_text",
+    "package.json": "_config",
+    "gemfile": "_config",
+    "makefile": "_config",
+    "rakefile": "_config",
+    "procfile": "_config",
+    "Dockerfile": "_config"
   }
 }
