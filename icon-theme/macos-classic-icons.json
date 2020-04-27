@@ -1,8 +1,8 @@
 {
-	"iconDefinitions": {
-		"_file": {
-			"iconPath": "./icons/GenericDocumentIcon.png"
-		},
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./icons/GenericDocumentIcon.png"
+    },
     "_forder": {
       "iconPath": "./icons/GenericFolderIcon.png"
     },
@@ -12,52 +12,86 @@
     "_libraryForder": {
       "iconPath": "./icons/LibraryFolderIcon.png"
     },
-    "_code": { "iconPath": "./icons/code.png" },
-    "_rb": { "iconPath": "./icons/ruby.png" },
-    "_js": { "iconPath": "./icons/javascript.png" },
-    "_py": { "iconPath": "./icons/python.png" },
-    "_markdown": { "iconPath": "./icons/markdown.png" },
-    "_text": { "iconPath": "./icons/text.png" },
-    "_list": { "iconPath": "./icons/list.png" },
-    "_config": { "iconPath": "./icons/config.png" },
-    "_log": { "iconPath": "./icons/log.png" },
-    "_html": { "iconPath": "./icons/html.png" },
-	},
-	"folderExpanded": "_openForder",
-	"folder": "_forder",
-	"file": "_file",
+    "_code": {
+      "iconPath": "./icons/code.png"
+    },
+    "_rb": {
+      "iconPath": "./icons/ruby.png"
+    },
+    "_js": {
+      "iconPath": "./icons/javascript.png"
+    },
+    "_py": {
+      "iconPath": "./icons/python.png"
+    },
+    "_markdown": {
+      "iconPath": "./icons/markdown.png"
+    },
+    "_text": {
+      "iconPath": "./icons/text.png"
+    },
+    "_list": {
+      "iconPath": "./icons/list.png"
+    },
+    "_config": {
+      "iconPath": "./icons/config.png"
+    },
+    "_log": {
+      "iconPath": "./icons/log.png"
+    },
+    "_html": {
+      "iconPath": "./icons/html.png"
+    },
+    "_ts": {
+      "iconPath": "./icons/typescript.png"
+    },
+    "_vue": {
+      "iconPath": "./icons/vue.png"
+    },
+    "_go": {
+      "iconPath": "./icons/go.png"
+    },
+    "_php": {
+      "iconPath": "./icons/php.png"
+    }
+  },
+  "folderExpanded": "_openForder",
+  "folder": "_forder",
+  "file": "_file",
   "folderNames": {
     "node_modules": "_libraryForder",
-    "vendor": "_libraryForder",
     "vendor": "_libraryForder"
   },
   "fileExtensions": {
     "c": "_code",
-    "go": "_code",
+    "go": "_go",
     "rb": "_rb",
     "ru": "_rb",
     "rs": "_code",
     "cr": "_rb",
     "py": "_py",
     "java": "_code",
-    "php": "_code",
+    "php": "_php",
     "js": "_js",
+    "ts": "_ts",
     "jsx": "_js",
     "es6": "_js",
+    "vue": "_vue",
     "coffee": "_js",
     "css": "_code",
     "less": "_code",
     "sass": "_code",
     "scss": "_code",
-    "json": "_code",
     "cpp": "_code",
     "bash": "_code",
     "md": "_markdown",
+    "markdown": "_markdown",
     "textile": "_markdown",
     "rdoc": "_markdown",
     "txt": "_text",
     "json": "_list",
     "yml": "_list",
+    "yaml": "_list",
     "ini": "_config",
     "conf": "_config",
     "properties": "_config",
@@ -67,7 +101,7 @@
     "html": "_html",
     "erb": "_html",
     "slim": "_html",
-    "haml": "_html",
+    "haml": "_html"
   },
   "fileNames": {
     "license": "_text",
