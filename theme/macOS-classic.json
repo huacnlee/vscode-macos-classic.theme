@@ -64,8 +64,6 @@
 		"list.hoverForeground": "#262426",
 		"list.activeSelectionBackground": "#0069d9",
 		"list.activeSelectionForeground": "#ffffff",
-		"list.inactiveSelectionBackground": "#0069d9",
-		"list.inactiveSelectionForeground": "#ffffff",
 		"editorCursor.foreground": "#333333",
 		"selection.background": "#DFEDFF",
 		"editor.selectionBackground": "#DFEDFF",
