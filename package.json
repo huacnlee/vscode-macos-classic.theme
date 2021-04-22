@@ -1,61 +1,64 @@
 {
-	"name": "theme-macos-classic",
-	"version": "1.2.1",
-	"displayName": "macOS Classic",
-	"homepage": "https://github.com/huacnlee/vscode-macos-classic.theme",
-	"description": "macOS Classic.",
-	"publisher": "huacnlee",
-	"license": "MIT",
-	"maintainers": [
-		"Jason Lee <huacnlee@gmail.com>"
-	],
-	"contributors": [
-		"Jason Lee"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/huacnlee/vscode-macos-classic.theme.git"
-	},
-	"bugs": {
-		"url": "https://github.com/huacnlee/vscode-macos-classic.theme/issues"
-	},
-	"engines": {
-		"vscode": "^1.11.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"macOS",
-		"classic",
-		"TextMate",
-		"mac",
-		"theme"
-	],
-	"icon": "icon.png",
-	"galleryBanner": {
-		"color": "#3c4557",
-		"theme": "light"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "macOS Classic",
-				"uiTheme": "vs",
-				"path": "./theme/macOS-classic.json"
-			}
-		],
-		"iconThemes": [
-			{
-				"id": "macos-classic-icons",
-				"label": "macOS Classic icon theme",
-				"path": "./icon-theme/macos-classic-icons.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "a9571487-6804-4ad4-badb-1abaefb2a22a",
-		"publisherId": "c13d233e-fd04-45d1-bfb2-da2be17a9a7b",
-		"publisherDisplayName": "Jason Lee"
-	}
+  "name": "theme-macos-classic",
+  "version": "1.3.0",
+  "displayName": "macOS Classic",
+  "homepage": "https://github.com/huacnlee/vscode-macos-classic.theme",
+  "description": "macOS Classic.",
+  "publisher": "huacnlee",
+  "license": "MIT",
+  "maintainers": [
+    "Jason Lee <huacnlee@gmail.com>"
+  ],
+  "contributors": [
+    "Jason Lee"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huacnlee/vscode-macos-classic.theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huacnlee/vscode-macos-classic.theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "macOS",
+    "classic",
+    "TextMate",
+    "mac",
+    "theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#3c4557",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "macOS Classic",
+        "uiTheme": "vs",
+        "path": "./theme/macOS-classic.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "macos-classic-icons",
+        "label": "macOS Classic icon theme",
+        "path": "./icon-theme/macos-classic-icons.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "a9571487-6804-4ad4-badb-1abaefb2a22a",
+    "publisherId": "c13d233e-fd04-45d1-bfb2-da2be17a9a7b",
+    "publisherDisplayName": "Jason Lee"
+  },
+  "dependencies": {
+    "vsce": "^1.87.1"
+  }
 }
