@@ -1,9 +1,18 @@
-# macOS Classic for [Visual Studio Code](http://code.visualstudio.com)
+# macOS Classic theme for Visual Studio Code
 
-> A light theme for [Visual Studio Code](http://code.visualstudio.com).
+[![vsm-version](https://img.shields.io/visual-studio-marketplace/v/huacnlee.theme-macos-classic?style=flat&label=VS%20Code)](https://marketplace.visualstudio.com/items?itemName=huacnlee.theme-macos-classic)
 
-- UI theme
-- Icon theme
+[![vsm-version](https://img.shields.io/visual-studio-marketplace/v/huacnlee.theme-macos-classic?style=flat&label=Install)](vscode:extension/huacnlee.theme-macos-classic)
+
+A macOS native style theme for Visual Studio Code, let it same like TextMate, Safari or others native app in macOS.
+
+- macOS Native style theme;
+- Code Highlight theme (Mac Classic);
+- Icon theme;
+
+## Installation
+
+https://marketplace.visualstudio.com/items?itemName=huacnlee.theme-macos-classic
 
 ## Usage
 
