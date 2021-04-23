@@ -10,6 +10,8 @@ A macOS native style theme for Visual Studio Code, let it same like TextMate, Sa
 
 ## Installation
 
+[Install Now](vscode:extension/huacnlee.theme-macos-classic)
+
 https://marketplace.visualstudio.com/items?itemName=huacnlee.theme-macos-classic
 
 ## Usage
