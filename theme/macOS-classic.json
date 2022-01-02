@@ -95,6 +95,8 @@
     "editorSuggestWidget.background": "#FFFFFF",
     "editorSuggestWidget.selectedBackground": "#EBF5FF",
     "editorSuggestWidget.border": "#E0E0E0",
+    "editorSuggestWidget.highlightForeground": "#333333",
+    "editorSuggestWidget.selectedForeground": "#333333",
     "editorHoverWidget.background": "#FFFFFF",
     "editorHoverWidget.selectedBackground": "#EBF5FF",
     "editorHoverWidget.border": "#E0E0E0"
