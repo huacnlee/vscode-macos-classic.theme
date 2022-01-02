@@ -7,7 +7,7 @@
   "publisher": "huacnlee",
   "license": "MIT",
   "scripts": {
-    "release": "vsce package"
+    "release": "vsce publish"
   },
   "maintainers": [
     "Jason Lee <huacnlee@gmail.com>"
