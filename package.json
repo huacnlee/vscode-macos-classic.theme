@@ -1,11 +1,14 @@
 {
   "name": "theme-macos-classic",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "displayName": "macOS Classic",
   "homepage": "https://github.com/huacnlee/vscode-macos-classic.theme",
   "description": "macOS Classic.",
   "publisher": "huacnlee",
   "license": "MIT",
+  "scripts": {
+    "release": "vsce package"
+  },
   "maintainers": [
     "Jason Lee <huacnlee@gmail.com>"
   ],
