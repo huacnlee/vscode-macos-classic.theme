@@ -2,3 +2,4 @@ node_modules
 bin
 .DS_Store
 *.vsix
+*.log

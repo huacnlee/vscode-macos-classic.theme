@@ -4,7 +4,7 @@
 
 A macOS native style theme for Visual Studio Code, let it same like TextMate, Safari or others native app in macOS.
 
-- macOS Native style theme;
+- macOS Native style theme (Light and Dark mode);
 - Code Highlight theme (Mac Classic);
 - Icon theme;
 
@@ -36,4 +36,10 @@ You can setup settings to get best effect:
 
 ## Screenshot
 
-![](https://user-images.githubusercontent.com/5518/115701386-50c04100-a39a-11eb-935e-18d75df14068.png)
+![light](https://user-images.githubusercontent.com/5518/173374333-f38e5855-a7c8-44ea-b110-98c76400bcf5.png)
+
+![dark](https://user-images.githubusercontent.com/5518/173374389-30bb0806-eaf8-42a9-9e58-5a1a129c26d3.png)
+
+## Development Guides
+
+Reference https://code.visualstudio.com/docs/getstarted/theme-color-reference
