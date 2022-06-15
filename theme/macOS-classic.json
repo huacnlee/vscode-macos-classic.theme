@@ -53,6 +53,7 @@
     "list.activeSelectionForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#B9B9B9",
     "list.inactiveSelectionForeground": "#262426",
+    "list.focusHighlightForeground": "#9dddff",
     "titleBar.activeBackground": "#c4c4c4",
     "titleBar.border": "#c4c4c4",
     "notification.background": "#54a3ff",
