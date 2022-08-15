@@ -61,6 +61,7 @@
     "panelInput.border": "#303030",
     "panelTitle.activeBorder": "#3A3A3A",
     "panelTitle.activeForeground": "#B2B2B2",
+    "inputOption.activeBackground": "#303030",
     "input.background": "#1E1D1E",
     "input.foreground": "#DDDDDD",
     "input.border": "#303030",
