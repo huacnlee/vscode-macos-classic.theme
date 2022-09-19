@@ -20,11 +20,10 @@ You can setup settings to get best effect:
 
 ```json
 {
-  "window.autoDetectColorScheme": true,
-  "workbench.preferredLightColorTheme": "macOS Classic",
-  "workbench.preferredDarkColorTheme": "macOS Classic Dark",
+
   "editor.fontFamily": "Menlo, Monaco, Consolas, 'Courier New', monospace",
   "editor.fontSize": 12,
+  "window.autoDetectColorScheme": true,
   "window.titleBarStyle": "native",
   "window.autoDetectColorScheme": true,
   "workbench.activityBar.visible": false,
@@ -32,6 +31,9 @@ You can setup settings to get best effect:
   "workbench.editor.tabCloseButton": "left",
   "workbench.editor.showIcons": false,
   "workbench.sideBar.location": "left",
+  "workbench.preferredLightColorTheme": "macOS Classic",
+  "workbench.preferredDarkColorTheme": "macOS Classic Dark",
+  "workbench.iconTheme": "macos-classic-icons",
   "editor.renderLineHighlight": "none",
   "editor.minimap.enabled": false,
   "editor.glyphMargin": false,
