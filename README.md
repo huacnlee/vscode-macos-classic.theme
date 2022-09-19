@@ -20,9 +20,15 @@ You can setup settings to get best effect:
 
 ```json
 {
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "macOS Classic",
+  "workbench.preferredDarkColorTheme": "macOS Classic Dark",
   "editor.fontFamily": "Menlo, Monaco, Consolas, 'Courier New', monospace",
   "editor.fontSize": 12,
   "window.titleBarStyle": "native",
+  "window.autoDetectColorScheme": true,
+  "workbench.activityBar.visible": false,
+  "workbench.sideBar.location": "left",
   "workbench.editor.tabCloseButton": "left",
   "workbench.editor.showIcons": false,
   "workbench.sideBar.location": "left",
@@ -30,7 +36,8 @@ You can setup settings to get best effect:
   "editor.minimap.enabled": false,
   "editor.glyphMargin": false,
   "editor.renderIndentGuides": true,
-  "editor.selectionHighlight": false
+  "editor.selectionHighlight": false,
+  "editor.scrollbar.verticalScrollbarSize": 6
 }
 ```
 
