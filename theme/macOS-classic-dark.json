@@ -95,10 +95,10 @@
     "editorWidget.border": "#3A3A3A",
     "widget.shadow": "#202020",
     "editorSuggestWidget.background": "#363636",
-    "editorSuggestWidget.selectedBackground": "#EBF5FF",
+    "editorSuggestWidget.selectedBackground": "#6a6a6a",
+    "editorSuggestWidget.selectedForeground": "#ffffff",
     "editorSuggestWidget.border": "#3A3A3A",
-    "editorSuggestWidget.highlightForeground": "#333333",
-    "editorSuggestWidget.selectedForeground": "#464646",
+    "editorSuggestWidget.highlightForeground": "#9D7E1B",
     "editorHoverWidget.background": "#363636",
     "editorHoverWidget.selectedBackground": "#464646",
     "editorHoverWidget.border": "#3A3A3A"
