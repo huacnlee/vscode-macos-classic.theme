@@ -7,7 +7,7 @@
   "type": "dark",
   "semanticClass": "theme.macos-classic-dark",
   "colors": {
-    "editor.background": "#1E1E1E",
+    "editor.background": "#131313",
     "editor.foreground": "#DDDDDD",
     "editor.lineHighlightBackground": "#fffbdd",
     "editorIndentGuide.background": "#303030",
