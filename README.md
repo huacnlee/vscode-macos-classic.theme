@@ -45,9 +45,8 @@ You can setup settings to get best effect:
 
 ## Screenshot
 
-![light](https://user-images.githubusercontent.com/5518/173374333-f38e5855-a7c8-44ea-b110-98c76400bcf5.png)
-
-![dark](https://user-images.githubusercontent.com/5518/173374389-30bb0806-eaf8-42a9-9e58-5a1a129c26d3.png)
+![macos-classic-light](https://user-images.githubusercontent.com/5518/200459317-73c2829b-0dc5-42ec-a2a7-73b3c454cdf4.png)
+![macos-classic-dark](https://user-images.githubusercontent.com/5518/200459310-f19b508f-ce97-499e-a850-da38b20743d1.png)
 
 ## Development Guides
 
