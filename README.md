@@ -20,7 +20,6 @@ You can setup settings to get best effect:
 
 ```json
 {
-
   "editor.fontFamily": "Menlo, Monaco, Consolas, 'Courier New', monospace",
   "editor.fontSize": 12,
   "window.autoDetectColorScheme": true,
@@ -39,7 +38,8 @@ You can setup settings to get best effect:
   "editor.glyphMargin": false,
   "editor.renderIndentGuides": true,
   "editor.selectionHighlight": false,
-  "editor.scrollbar.verticalScrollbarSize": 6
+  "editor.scrollbar.verticalScrollbarSize": 4,
+  "editor.scrollbar.horizontalScrollbarSize": 4
 }
 ```
 
