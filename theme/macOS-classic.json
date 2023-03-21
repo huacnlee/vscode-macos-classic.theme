@@ -89,8 +89,14 @@
     "terminal.ansiBrightRed": "#D9564E",
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiBrightWhite": "#eeeeee",
-    "editorWidget.background": "#F9F9F9",
+    "editorWidget.background": "#EAEAEA",
     "editorWidget.border": "#eaeaea",
+    "button.secondaryBackground": "#505050",
+    "button.secondaryHoverBackground": "#505050",
+    "button.border": "#161616",
+    "button.background": "#1f6ae2",
+    "button.hoverBackground": "#1f6ae2",
+    "contrastBorder": "#b6b6b6",
     "widget.shadow": "#e3e0e0",
     "notificationCenterHeader.background": "#f7f7f7",
     "notifications.border": "#e5e5e6",
@@ -102,7 +108,8 @@
     "editorSuggestWidget.border": "#E0E0E0",
     "editorHoverWidget.background": "#FBFBFB",
     "editorHoverWidget.selectedBackground": "#0069D9",
-    "editorHoverWidget.border": "#E0E0E0"
+    "editorHoverWidget.border": "#E0E0E0",
+    "problemsWarningIcon.foreground": "#f26d0d"
   },
   "tokenColors": [
     {

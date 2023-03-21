@@ -92,8 +92,14 @@
     "terminal.ansiBrightRed": "#D9564E",
     "terminal.ansiWhite": "#131313",
     "terminal.ansiBrightWhite": "#eeeeee",
-    "editorWidget.background": "#363636",
-    "editorWidget.border": "#3A3A3A",
+    "editorWidget.background": "#171717",
+    "editorWidget.border": "#3c3c3c",
+    "contrastBorder": "#3c3c3c",
+    "button.border": "#000000",
+    "button.background": "#0854D0",
+    "button.hoverBackground": "#1f6ae2",
+    "button.secondaryBackground": "#3c3c3c",
+    "button.secondaryHoverBackground": "#444444",
     "widget.shadow": "#191919",
     "editorSuggestWidget.background": "#363636",
     "editorSuggestWidget.selectedBackground": "#6a6a6a",
@@ -102,7 +108,8 @@
     "editorSuggestWidget.highlightForeground": "#ffff00",
     "editorHoverWidget.background": "#363636",
     "editorHoverWidget.selectedBackground": "#464646",
-    "editorHoverWidget.border": "#3A3A3A"
+    "editorHoverWidget.border": "#3A3A3A",
+    "problemsWarningIcon.foreground": "#f26d0d"
   },
   "tokenColors": [
     {
