@@ -9,7 +9,7 @@
   "colors": {
     "editor.background": "#131313",
     "editor.foreground": "#DDDDDD",
-    "editor.lineHighlightBackground": "#fffbdd",
+    "editor.lineHighlightBackground": "#272727",
     "editorIndentGuide.background": "#303030",
     "editorLineNumber.foreground": "#8F8F8F",
     "editorLineNumber.background": "#2C2C2C",
