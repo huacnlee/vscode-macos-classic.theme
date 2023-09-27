@@ -52,6 +52,11 @@
         "label": "macOS Classic Dark",
         "uiTheme": "vs-dark",
         "path": "./theme/macOS-classic-dark.json"
+      },
+      {
+        "label": "macOS Classic Dark v2",
+        "uiTheme": "vs-dark",
+        "path": "./theme/macOS-classic-dark2.json"
       }
     ],
     "iconThemes": [
