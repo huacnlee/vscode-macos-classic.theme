@@ -193,7 +193,6 @@
         "keyword",
         "storage.modifier",
         "storage.type",
-        "support.function",
         "variable.language.this",
         "punctuation.definition.template-expression",
         "constant.numeric",
@@ -273,6 +272,7 @@
     },
     {
       "scope": [
+        "support.function",
         "entity.name.function"
       ],
       "settings": {
