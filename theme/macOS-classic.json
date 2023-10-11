@@ -197,12 +197,19 @@
         "variable.language.this",
         "punctuation.definition.template-expression",
         "constant.numeric",
-        "meta.tag.structure",
-        "entity.name.tag",
-        "entity.other.attribute-name"
+        "entity.name.tag"
       ],
       "settings": {
         "foreground": "#0433ff"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name",
+        "meta.tag.structure"
+      ],
+      "settings": {
+        "foreground": "#0000A2"
       }
     },
     {

@@ -195,13 +195,27 @@
         "storage.type",
         "variable.language.this",
         "punctuation.definition.template-expression",
-        "constant.numeric",
-        "meta.tag.structure",
-        "entity.name.tag",
-        "entity.other.attribute-name"
+        "constant.numeric"
       ],
       "settings": {
         "foreground": "#E19773"
+      }
+    },
+    {
+      "scope": [
+        "meta.tag.structure",
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#b5af9a"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#be9a52"
       }
     },
     {
