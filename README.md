@@ -47,15 +47,15 @@ You can setup settings to get best effect:
 
 ### Light
 
-![macos-classic-light](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/5c2bd11d-0772-47c9-a964-b77ad855c276)
+![macos-classic-light](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/9d901978-fcd9-4871-95c9-9b513ef94730)
 
 ### Dark
 
-![macos-classic-dark](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/ac3b5db9-48af-42ba-a55a-cf30fb3bae7a)
+![macos-classic-dark](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/bc5e4ff4-a569-46ff-a6cc-1fa1d1c1c584)
 
 ### Dark v2
 
-![macos-classic-dark-v2](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/e1e7e808-a503-4f7c-a0da-6189de7c9b07)
+![macos-classic-dark-v2](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/e37fdcb1-0c83-4d45-aceb-895226947192)
 
 ## Development Guides
 
