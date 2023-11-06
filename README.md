@@ -20,10 +20,10 @@ You can setup settings to get best effect:
 
 ```json
 {
+  "window.nativeTabs": false,
+  "workbench.activityBar.location": "top",
   "editor.fontFamily": "Menlo, Monaco, Consolas, 'Courier New', monospace",
   "editor.fontSize": 12,
-  "window.autoDetectColorScheme": true,
-  "window.titleBarStyle": "native",
   "window.autoDetectColorScheme": true,
   "workbench.activityBar.visible": false,
   "workbench.sideBar.location": "left",
@@ -31,7 +31,7 @@ You can setup settings to get best effect:
   "workbench.editor.showIcons": false,
   "workbench.sideBar.location": "left",
   "workbench.preferredLightColorTheme": "macOS Classic",
-  "workbench.preferredDarkColorTheme": "macOS Classic Dark",
+  "workbench.preferredDarkColorTheme": "macOS Classic Dark v2",
   "workbench.iconTheme": "macos-classic-icons",
   "editor.renderLineHighlight": "none",
   "editor.minimap.enabled": false,
@@ -45,8 +45,17 @@ You can setup settings to get best effect:
 
 ## Screenshot
 
-![macos-classic-light](https://user-images.githubusercontent.com/5518/200459317-73c2829b-0dc5-42ec-a2a7-73b3c454cdf4.png)
-![macos-classic-dark](https://user-images.githubusercontent.com/5518/200459310-f19b508f-ce97-499e-a850-da38b20743d1.png)
+### Light
+
+![macos-classic-light](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/5c2bd11d-0772-47c9-a964-b77ad855c276)
+
+### Dark
+
+![macos-classic-dark](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/ac3b5db9-48af-42ba-a55a-cf30fb3bae7a)
+
+### Dark v2
+
+![macos-classic-dark-v2](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/e1e7e808-a503-4f7c-a0da-6189de7c9b07)
 
 ## Development Guides
 
