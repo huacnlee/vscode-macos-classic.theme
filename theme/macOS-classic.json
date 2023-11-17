@@ -281,6 +281,7 @@
     },
     {
       "scope": [
+        "meta.embedded",
         "meta.function-call",
         "variable.parameter.function",
         "support.variable.property.dom",

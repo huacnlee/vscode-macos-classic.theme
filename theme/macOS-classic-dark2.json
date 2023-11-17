@@ -112,6 +112,7 @@
     "editorHoverWidget.border": "#3A3A3A",
     "problemsWarningIcon.foreground": "#f26d0d"
   },
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
@@ -180,12 +181,10 @@
     },
     {
       "scope": [
-        "variable.other.constant",
         "variable.other.class",
         "meta.property-name",
         "meta.property-value",
         "support",
-        "constant.language.boolean",
         "support.function.kernel"
       ],
       "settings": {
@@ -194,11 +193,12 @@
     },
     {
       "scope": [
+        "variable.other.constant",
         "constant.language",
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#CACCCA"
+        "foreground": "#705f00"
       }
     },
     {
@@ -218,7 +218,8 @@
     {
       "scope": [
         "meta.tag.structure",
-        "entity.name.tag"
+        "entity.name.tag",
+        "meta.attribute"
       ],
       "settings": {
         "foreground": "#9a9576"
@@ -272,6 +273,9 @@
     },
     {
       "scope": [
+        "meta.embedded",
+        "punctuation.definition.template-expression",
+        "punctuation.section.embedded",
         "support.constant.property-value",
         "support.variable.property.dom",
         "support.type.property-name.json",

@@ -185,17 +185,7 @@
         "meta.property-name",
         "meta.property-value",
         "support",
-        "constant.language.boolean",
         "support.function.kernel"
-      ],
-      "settings": {
-        "foreground": "#CACCCA"
-      }
-    },
-    {
-      "scope": [
-        "constant.language",
-        "constant.other.color"
       ],
       "settings": {
         "foreground": "#CACCCA"
@@ -217,7 +207,8 @@
     {
       "scope": [
         "meta.tag.structure",
-        "entity.name.tag"
+        "entity.name.tag",
+        "meta.attribute"
       ],
       "settings": {
         "foreground": "#b5af9a"
@@ -279,6 +270,7 @@
     },
     {
       "scope": [
+        "meta.embedded",
         "support.constant.property-value",
         "support.variable.property.dom",
         "support.type.property-name.json",
@@ -309,7 +301,8 @@
     {
       "scope": [
         "variable.other.constant",
-        "variable.language.this"
+        "variable.language.this",
+        "constant.language"
       ],
       "settings": {
         "foreground": "#E1D797"
