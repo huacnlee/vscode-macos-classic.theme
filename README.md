@@ -55,7 +55,7 @@ You can setup settings to get best effect:
 
 ### Dark v2
 
-![macos-classic-dark-v2](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/e37fdcb1-0c83-4d45-aceb-895226947192)
+![SCR-20231218-j82](https://github.com/huacnlee/vscode-macos-classic.theme/assets/5518/2da6ef86-da52-4b40-a4a1-54eab0dd9c5f)
 
 ## Development Guides
 
