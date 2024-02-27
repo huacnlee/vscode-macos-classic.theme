@@ -60,3 +60,11 @@ You can setup settings to get best effect:
 ## Development Guides
 
 Reference https://code.visualstudio.com/docs/getstarted/theme-color-reference
+
+
+## Other Tools Themes
+
+- [Zed Theme](https://github.com/huacnlee/zed-theme-macos-classic)
+- [VS Code Theme](https://github.com/huacnlee/vscode-macos-classic.theme)
+- [Wrap Theme](https://github.com/huacnlee/wrap-theme-macos-classic)
+
