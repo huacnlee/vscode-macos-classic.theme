@@ -66,5 +66,6 @@ Reference https://code.visualstudio.com/docs/getstarted/theme-color-reference
 
 - [Zed Theme](https://github.com/huacnlee/zed-theme-macos-classic)
 - [VS Code Theme](https://github.com/huacnlee/vscode-macos-classic.theme)
-- [Wrap Theme](https://github.com/huacnlee/wrap-theme-macos-classic)
+- [Warp Theme](https://github.com/huacnlee/warp-theme-macos-classic)
+
 
