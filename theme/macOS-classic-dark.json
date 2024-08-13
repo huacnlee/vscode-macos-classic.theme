@@ -167,6 +167,18 @@
       }
     },
     {
+      "scope": "constant.character.escape",
+      "settings": {
+        "foreground": "#e3f2b6"
+      }
+    },
+    {
+      "scope": "constant.other.placeholder",
+      "settings": {
+        "foreground": "#e3f2b6"
+      }
+    },
+    {
       "scope": [
         "variable.other.constant",
         "variable.other.class",
